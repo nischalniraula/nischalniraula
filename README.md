@@ -1,3 +1,8 @@
+- Hi there! 👋🤓
+My name is Stephen Ajulu
+I'm a Web Developer, Designer,
+Content Creator and Cybsecurity Strategist
+- 
 - 👋 Hi, I’m @nischalniraula
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning PWK, C 
